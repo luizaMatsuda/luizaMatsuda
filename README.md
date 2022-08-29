@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luizaMatsuda
 - 👀 I’m interested in be a better developer
-- 🌱 I’m currently learning pyhton, ruby, java, swift, js
+- 🌱 I’m currently learning python, ruby, swift, js
 - 💞️ I’m looking to collaborate on world
 - 📫 How to reach me...luizamatsuda100@gmail.com
 
